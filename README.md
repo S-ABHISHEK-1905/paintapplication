@@ -155,7 +155,7 @@ function myClickEvent(e){
 
 ## OUTPUT:
 
-![output](Screenshot(10).png)
+![](web.png)
 
 ## Result:
 
