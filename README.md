@@ -135,7 +135,7 @@ function myClickEvent(e){
         <input type="button" id="yellow" value="Yellow">
     </div>
     <footer>
-        Developed by Syam Tej
+        Developed by S.ABHISHEK
     </footer>
         <script type ="text/javascript">
             var c = document.getElementById("myCanvas");
@@ -155,7 +155,7 @@ function myClickEvent(e){
 
 ## OUTPUT:
 
-![](web.png)
+![](web1.png)
 
 ## Result:
 
